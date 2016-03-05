@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaedvnkeldens102mylnuoft_0099.png"; bbox 0 0 2044 2906; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 608 729 1523 795">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 608 729 1523 795">
+     <span class='ocr_line' id='line_1_1' title="bbox 608 729 1523 795; baseline -0.009 0"><span class='ocrx_word' id='word_1_1' title='bbox 608 729 1523 795; x_wconf 83' lang='lat' dir='ltr'>COMPOTUM</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 692 942 1436 1040">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 692 942 1436 1040">
+     <span class='ocr_line' id='line_1_2' title="bbox 692 942 1436 1040; baseline -0.009 -24"><span class='ocrx_word' id='word_1_2' title='bbox 692 942 1067 1016; x_wconf 80' lang='lat' dir='ltr'><strong>MAGISTRI</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1105 962 1436 1040; x_wconf 67' lang='lat' dir='ltr'><strong>FABRmE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 516 1174 1610 1240">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 516 1174 1610 1240">
+     <span class='ocr_line' id='line_1_3' title="bbox 516 1174 1610 1240; baseline -0.006 -11"><span class='ocrx_word' id='word_1_4' title='bbox 516 1179 836 1229; x_wconf 86' lang='lat' dir='ltr'>PONTIS</span> <span class='ocrx_word' id='word_1_5' title='bbox 891 1174 1610 1240; x_wconf 87' lang='lat' dir='ltr'><strong>DUNKELDENSIS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 828 1386 1293 1422">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 828 1386 1293 1422">
+     <span class='ocr_line' id='line_1_4' title="bbox 828 1386 1293 1422; baseline -0.004 0"><span class='ocrx_word' id='word_1_6' title='bbox 828 1386 1293 1422; x_wconf 87' lang='lat' dir='ltr'><strong>M.D.XIII.—M.D.XVI.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 734 1850 1354 1976">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 734 1850 1354 1976">
+     <span class='ocr_line' id='line_1_5' title="bbox 734 1850 1354 1890; baseline -0.002 -5"><span class='ocrx_word' id='word_1_7' title='bbox 734 1850 1028 1885; x_wconf 89' lang='lat' dir='ltr'>IMPRESSUM</span> <span class='ocrx_word' id='word_1_8' title='bbox 1055 1850 1354 1890; x_wconf 88' lang='lat' dir='ltr'><strong>EDINBURGI,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 887 1941 1225 1976; baseline -0.006 0"><span class='ocrx_word' id='word_1_9' title='bbox 887 1941 1225 1976; x_wconf 89' lang='lat' dir='ltr'>M.DCCC.XXXI.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

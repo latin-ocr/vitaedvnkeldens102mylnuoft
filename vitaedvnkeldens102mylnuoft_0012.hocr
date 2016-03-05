@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./vitaedvnkeldens102mylnuoft_0012.png"; bbox 0 0 2072 3020; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 729 2316 1437 2352">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 729 2316 1437 2352">
+     <span class='ocr_line' id='line_1_1' title="bbox 729 2316 1437 2352; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 729 2328 848 2352; x_wconf 81' lang='lat' dir='ltr'>TYPls</span> <span class='ocrx_word' id='word_1_2' title='bbox 866 2328 950 2352; x_wconf 71' lang='lat' dir='ltr'>JAC.</span> <span class='ocrx_word' id='word_1_3' title='bbox 970 2316 1263 2352; x_wconf 58' lang='lat' dir='ltr'><strong>BALLANT&#39;YNE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1283 2327 1337 2351; x_wconf 79' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_5' title='bbox 1357 2326 1437 2351; x_wconf 86' lang='lat' dir='ltr'>SOC.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 816 2478 1332 2579">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 816 2478 1332 2579">
+     <span class='ocr_line' id='line_1_2' title="bbox 936 2478 1213 2516; baseline -0.014 0"><span class='ocrx_word' id='word_1_6' title='bbox 936 2479 1013 2516; x_wconf 77' lang='grc' dir='ltr'>ῙΗΕ</span> <span class='ocrx_word' id='word_1_7' title='bbox 1044 2478 1213 2515; x_wconf 62' lang='lat' dir='ltr'>[13wa</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 816 2535 1332 2579; baseline -0.01 -1"><span class='ocrx_word' id='word_1_8' title='bbox 816 2538 1059 2579; x_wconf 70' lang='lat' dir='ltr'>UNMRSHY</span> <span class='ocrx_word' id='word_1_9' title='bbox 1087 2537 1138 2576; x_wconf 75' lang='lat' dir='ltr'>Of</span> <span class='ocrx_word' id='word_1_10' title='bbox 1167 2535 1332 2576; x_wconf 65' lang='lat' dir='ltr'>Gutum</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
